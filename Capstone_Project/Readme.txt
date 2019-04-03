@@ -1,4 +1,3 @@
-Sorry for the naming convention, late night programming always produces these names for myself.
 The correction made for Skid2.0's "TeX" file, this addition to the LaTeX files is critical, it will
 not work without those additions. 
 
@@ -14,7 +13,7 @@ line 31-36:
 Title={SOS Project Reports Skid2.0 Evergreen CTF 2018},
 Author={Andrew Jordan, Alexander King, Kreig Clemens, Jacob Golding},
 Keywords={PHP, MySql, JavaScript, Hacking, Challenges, Skid2.0, Music4Robots, Resources, Web Security},
-Subject={This paper combines multiple resources and challenges that will help the reader’s ability to both understand our way of creating the challenges and to solve them.It dives into web security challenges, and what we learned from reading up on, and creating our own. The goal of our project was to create and host web security and various other challenges on our updated website.}
+Subject={This paper combines multiple resources and challenges that will help the readerâ€™s ability to both understand our way of creating the challenges and to solve them.It dives into web security challenges, and what we learned from reading up on, and creating our own. The goal of our project was to create and host web security and various other challenges on our updated website.}
 }}
 
 Having the appropiate key words is FINAL, its how the naming convention works with
